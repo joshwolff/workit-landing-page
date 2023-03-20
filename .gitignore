@@ -1,0 +1,18 @@
+# Mac files
+.DS_Store
+
+#GitKraken
+.gitkraken
+
+#Ignore VSCODE, elements, local history
+.vscode
+*.vsix
+.history/
+.prettierignore
+
+# Node
+npm-debug.log
+
+# General
+log/
+*.log
